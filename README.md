@@ -15,6 +15,9 @@ Una vez termines el curso podrás seguir con los mejores cursos de análisis de 
 
 1. Trabajando con R y con Python
 2. Documentación con R Markdown
+
+hola, purba de sincornizacion entre github y github desktop
+
 3. Estructuras de datos
 4. Introducción a la representación gráfica
 5. Data frames
